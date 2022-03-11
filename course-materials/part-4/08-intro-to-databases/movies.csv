@@ -1,0 +1,14 @@
+id,name,year,director,director_hometown,rank,Country
+1,Schindler’s List,1993,Steven Spielberg,"Cincinnati, OH",10,USA
+2,2001: A Space Odyssey,1968,Stanley Kubrick,"New York, NY",9,USA
+3,ET: The Extra-Terrestrial,1982,Steven Spielberg,"Cincinnati, OH",8,USA
+4,The Godfather: Part II,1974,Francis Ford Coppola,"Detroit, MI",7,USA
+5,Casablanca,1942,Michael Curtiz,"Budapest, Hungary",6,USA
+6,Pulp Fiction,1994,Quentin Tarantino,"Knoxville, TN",5,USA
+7,The Shawshank Redemption,1994,Frank Darabont,"Montbéliard, France",4,USA
+8,Citizen Kane,1941,Orson Welles,"Kenosha, WI",3,USA
+9,The Wizard of Oz,1939,Victor Fleming,"Pasadena, CA",2,USA
+10,The Godfather,1972,Francis Ford Coppola,"Detroit, MI",1,USA
+11,Goodfellas,1990,Martin Scorsese,"New York, NY",19,USA
+12,Jaws,1975,Steven Spielberg,"Cincinnati, OH",24,USA
+13,Godzilla,1950,Ishiro Honda,"Asahi, Yamagata, Japan",34,Japan

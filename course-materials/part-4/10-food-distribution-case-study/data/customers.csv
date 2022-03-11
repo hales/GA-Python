@@ -1,0 +1,685 @@
+customer_id,customer_name,city_id
+10000000,City Fresh Foods,53
+10000453,A Superior System,1
+10000455,Caribian Specialties,100
+10000456,A&B,76
+10000457,A&G,2
+10000458,A&R Partners,43
+10000460,Meals on Plates,69
+10000461,A1 Datacom Supply,77
+10000462,a2i,44
+10000466,A2Z Solutions,94
+10000469,A-2-Z Solutions,75
+10000471,Aadast,3
+10000472,Aaron D. Meyer & Associates,95
+10000473,Aaron Products,96
+10000474,A-ARVIN Laser Resources,42
+10000475,AA-Wizard,62
+10000478,Abacus Niagara,63
+10000480,Abbotsbury,97
+10000481,Abbott,45
+10000486,Aberdeen,4
+10000488,ABI TruTrac,5
+10000496,AboveNet,6
+10000497,Abplus,7
+10000499,ABSolute,8
+10000501,Absolute Magic,9
+10000502,Abstract,10
+10000601,Radio Progressive MontrTal,69
+10001103,AC Exchange,11
+10001263,AC&E,12
+10001784,Acacia,13
+10001786,Acara,14
+10001818,Acc Tonec,15
+10002114,Accel Partners,16
+10002115,Accent Interactive,17
+10002117,Accent Systems,18
+10002128,Access Point,19
+10002136,AccessWare,20
+10002137,Accidental,21
+10002138,ACCPAC International,22
+10002139,Accrue,23
+10002140,Accton,24
+10002142,AccuCom,25
+10002144,ACCUCOMP,26
+10002149,AccuLAN,27
+10002150,Accumedic Systems,28
+10002153,Ace Equipment,29
+10002154,Acer,30
+10002155,ACES Research,31
+10002159,ACI,32
+10002161,ACME Laboratories,33
+10002220,ACRON,78
+10002240,ACS,84
+10002244,ACS  Shop,64
+10002412,Acsior,34
+10002489,ACT Laboratory,65
+10002501,Action Systems,35
+10002506,ActionWorld,98
+10002520,ActivCard,36
+10002526,Active,37
+10002709,Active Data,99
+10002746,Active Network Systems,46
+10002765,Active Voice,66
+10002964,ActiveC,79
+10002969,activeDesign,85
+10003554,Ad Agency,39
+10003687,Ad-vantage,38
+10003720,Age,86
+10003749,Associates,40
+10003795,Bechtel Corporation,67
+10003857,"Beckman Instruments, Inc.",41
+10003882,Beech Aircraft Corporation,1
+10004207,Bell Canada Enterprises,2
+10004245,Jerry's,100
+10004255,Bendix Corporation,3
+10004256,Benedict,94
+10004302,Berkeley Design,68
+10004516,Besicorp,4
+10004602,Best Way! Imaging,5
+10005006,Betacorp,95
+10005043,Bezeq,6
+10005099,BF Datacom,7
+10005236,BH Feldman Consulting,8
+10005376,Bibb Manufacturing Company,9
+10005620,BidCast,10
+10005688,Bien Logic,11
+10005810,Big,12
+10005861,Big Mountain Multi,13
+10005919,Big Picture Technologies,14
+10005922,Big Planet,15
+10006037,Bigelow Sandford,69
+10006093,BigJobs,47
+10006805,Bitstream,70
+10006836,Biz-comm,16
+10006846,Bizmarts,96
+10006848,BizNet Equity Management Trust (BEMT),87
+10006862,BL Trading,71
+10006916,Boott Cotton Mills Corporation,17
+10006917,Borden Company,18
+10006919,Boston and Albany Railroad Company,19
+10006977,"Brazilian Traction, Light and Power Company",20
+10006983,Brentano's,22
+10007117,Bre-X,21
+10007120,Brinco Ltd.,97
+10007121,C & C  Design,48
+10007122,C & J Engineering,72
+10007123,C & M Distributors,73
+10007134,C&C,23
+10007163,C. Hoelzle Associates,24
+10007183,C.O.F.,25
+10007253,C3 Development,26
+10007258,C3I,27
+10007268,Cabco West,28
+10007309,Cadtex,29
+10007355,CAF Systemhaus,74
+10007448,Cajun,30
+10007457,CalComp,31
+10007468,Caleidoscopio S.r.l.,32
+10007536,Calypso,33
+10007564,CAM Group,62
+10007566,Cambio,49
+10007577,Cam-Built Prpgramming Plus,88
+10007591,Camelot IT,34
+10007866,Camros,35
+10008134,Canter,89
+10008381,CAPCON,98
+10008593,Capitola Works,50
+10008596,Capitolnet Marketing Group (CMG),63
+10008602,Caprica  Resources,90
+10008638,CAPTA,91
+10008893,Caravelle,99
+10009156,Carden Jennings Publishing,51
+10009356,Central Soya Company,52
+10009606,Champion International,36
+10009623,"Chas T. Main, Inc.",64
+10009631,Clearout,94
+10009633,"Dan River Mills, Inc.",37
+10009639,Data General Corporation,38
+10009642,"David L. Babson & Co., Inc.",54
+10009643,David Spencer Ltd.,55
+10009645,"Day and Zimmermann, Inc.",39
+10009647,Dayton Malleable Inc.,95
+10009650,Dayton Rubber Company,40
+10009652,Dci,80
+10009653,DCP Research,81
+10009654,DCS International,65
+10009656,DCS Laboratory,96
+10009657,DC-Works,92
+10009660,DDR,66
+10009662,De La Rue (Thomas) and Company,93
+10009669,De Postel,41
+10009672,DEAC,97
+10009676,Deak-Perera Group.,56
+10009679,Debenhams Ltd.,67
+10009697,Debian,68
+10009863,Deere and Company,1
+10009885,Degolyer and MacNaughton,82
+10009907,Del Monte Corporation,69
+10009985,E Corp.,98
+10010698,Earth,99
+10010717,East,58
+10010832,Echange CAC Exchange,2
+10010855,ECI com,3
+10010865,ECS Associates,4
+10010881,Ed Stefanov,5
+10010882,EDA Today,6
+10010884,EDC S,83
+10010886,EDGE Systems,100
+10010887,Edia,75
+10010897,Edify,70
+10010904,eDistrict,59
+10010906,ediSys,85
+10010912,edit.nl,71
+10010914,Editor,60
+10010923,Edmark,7
+10010935,Edna Design,42
+10010969,Edorex Informatik,43
+10010970,EDP,72
+10010974,EDS,44
+10010990,Elbit Oy,8
+10011018,Eloi Companies,9
+10011052,Elucidex,10
+10011089,Embedded Support Tools (EST),11
+10011093,EMC,12
+10011198,e-MDs,84
+10011286,Emergency,13
+10011345,Emergent,14
+10011355,Enterprises,15
+10011360,Equitable Life Assurance Society,16
+10011398,Ethyl Corporation,94
+10011459,F. & R. Lazarus and Company,73
+10011499,Farmland Industries,17
+10011521,Farr Alpaca Company,74
+10011546,Farrell Lines Company,18
+10011600,FCS,19
+10011623,Federal Express Corporation,20
+10011724,Federal Focus,76
+10011732,Federated Co-Operatives Limited,21
+10011734,Felidae Enterprises,62
+10011821,FenP Innovators,22
+10011842,Fentek Industries,23
+10011870,Fenwick & West,24
+10011918,Ferrari,25
+10011923,Ferst,45
+10011979,FiberPlex,26
+10011981,FIBERWORKS,95
+10011997,Fibronics,86
+10012023,FICOM,27
+10012128,Fifth Generation,28
+10012157,Fifth Moon,29
+10012158,Filene's,30
+10012161,Filetron,31
+10012226,Fill It,46
+10012234,Filmotype,96
+10012235,Fimetrics Systems,77
+10012305,FIND/SVP,32
+10012328,Finder,33
+10012369,Finest Host,34
+10012399,Finisar,35
+10012422,Finishing,63
+10012425,Fins,47
+10012514,Firehole,36
+10012600,FireTrans,37
+10012715,Fokas,87
+10012761,G.R. Barron,39
+10012792,Gadzoox Microsystems,40
+10012799,Gaecom,41
+10012851,Gailey Enterprises,1
+10012885,Gainunion,2
+10012907,Galaxy Marketing Associates,3
+10012927,Galaxy Systems,4
+10013011,Gamacles,5
+10013039,Gamma One Conversions,6
+10013052,GammaGraphX (GGX),7
+10013061,Gammel Group,8
+10013079,Gandalf Systems,9
+10013080,Ganymede,10
+10013127,Garbee and Garbee,11
+10013137,Garlin Imports,12
+10013188,Gartner Group,64
+10013232,Garza Industries,48
+10013238,Gastown space,49
+10013252,Gate,65
+10013312,Gate9th,13
+10013332,GateMaster,14
+10013341,Gatierf Publications,15
+10013376,GCC Technologies,16
+10013397,G-Com International,38
+10013426,GDC,17
+10013467,GDSS,97
+10013472,GE Fanuc Automation,50
+10013509,Geac,51
+10013538,GEAR,18
+10013572,GearSource,19
+10013574,Gebbie Press,20
+10013670,Gehlken Enterprises,21
+10013765,Gemini Controls,52
+10013870,Greymac Trust Company,22
+10013871,"Grove Farm Co., Inc.",23
+10013899,Grumman Corporation,24
+10014043,Guarantee Mutual Life Company,25
+10014047,Gulf and Western Industries,98
+10014059,GURUs,26
+10014064,H.H. Robertson Company,27
+10014238,Harbor  Group,28
+10014264,Harbour and Associates,53
+10014469,Harte-Hanks (formerly Locator),54
+10014471,Harts Unlimited,78
+10014495,Harvard Trust Company,99
+10014533,Harvey,55
+10014540,HarveyOpolis,29
+10014546,Hauppauge Works,100
+10014739,Haz-Mat D-Zines,66
+10014779,HBO & Company,88
+10014802,HBS,30
+10014803,HCHS,56
+10014804,HCS,67
+10014810,Healtheon,57
+10015011,Hederman Brothers,31
+10015030,Hegemony,94
+10015253,Hekimian Laboratories,32
+10015267,Helfand Enterprises,33
+10015275,Helios,58
+10015325,Helius,34
+10015495,Henning Industrial,59
+10015686,Hercules Incorporated,35
+10015783,Hershey Chocolate Corporation,89
+10015789,hesketh.com,36
+10015793,Hetrick Systems,95
+10015824,Heurikon,60
+10015886,Hewlett Packard,37
+10015956,Hidden Oak,38
+10016045,High  Logistics (HTL),42
+10016047,High Country Access,68
+10016113,"Hill and Knowlton, Inc.",39
+10016303,HMR,90
+10016334,Hobart Manufacturing Company,43
+10016542,Holy  Developers,69
+10016548,Home Automation (HAI),70
+10016549,Home Pages,71
+10016564,Home Team,44
+10016588,Homebound,72
+10016609,Homestead Custom,79
+10016780,iBEAM,40
+10016784,IBEX,45
+10016807,Ibis,46
+10016858,IBVA,96
+10017036,Icon,47
+10017054,Icon Site Builders,48
+10017072,Iconation,49
+10017290,Id,41
+10017307,Idyll Mountain,80
+10017314,Idyllwild,73
+10017553,iLanguage,50
+10017576,Illuminati,74
+10017585,Ilog,51
+10017638,Information Bureau,91
+10017828,J. S. Lee Associates,97
+10017852,J.A. Bauer Pottery Company,1
+10018129,J.M. Haggar,2
+10018146,J.M. Schneider Inc.,81
+10018352,Johnson and Higgins,3
+10018363,Jones and Laughlin Steel Corporation,4
+10018371,Joy Line,5
+10018518,K,6
+10018580,K International,62
+10018603,K&K Enterprises,7
+10018623,K&M Enterprises,63
+10018628,K.C. Irving,98
+10018644,Kabbalah,52
+10018665,Kaim Associates,92
+10018867,Kari & Associates,53
+10018868,Karickal Exports,8
+10018871,Karsing,54
+10018877,KAT Micro Distributing,9
+10018885,Kawneer Company,99
+10018890,Kazinformcom,55
+10018950,Kendrick Jansen,10
+10018957,Kennecott Copper Corporation,11
+10019066,KENROB and Associates,12
+10019105,Kensington Group,93
+10019109,KentISP,100
+10019150,Kentucky Utilities Company,64
+10019194,Kerite Company,13
+10019388,KeyComm,94
+10019400,Keystar  Training,56
+10019410,Keystone 2-Way,82
+10019420,Keystroke Quality,14
+10019469,kGS,15
+10019502,KillerGraffix,16
+10019512,Kim Tom Co,17
+10019514,Kimball (W.W.) Company,18
+10019617,Kool-Seal,65
+10019664,"Koppers Company, Inc.",57
+10019665,Labatt Brewing Company Ltd.,58
+10019678,Laker Airways,95
+10019682,Lamson and Session Company,59
+10019783,Levi Strauss and Company,19
+10019812,Lewis Grocer Company,20
+10019879,Litton,66
+10019880,Litton FiberCom,84
+10019897,Livermore  Laboratories (LSLI),67
+10019900,LiveWire BBS and   Favourite Links,96
+10019909,LiveWORLD,60
+10019913,Livezone Interactive,83
+10019942,Lmao,42
+10019952,Lobster Productions,21
+10020080,Lucky,22
+10020171,Lynn-Arthur Associates (LLA),85
+10020181,Market,23
+10020184,Matradi,68
+10020192,MATRIX,97
+10020193,Maui Island  (MIC),24
+10020227,MaxBan,25
+10020239,MaXpeed,26
+10020247,MAXSTRAT,27
+10020256,Maxtor,28
+10020266,Maxwell Laboratories,29
+10020281,Mb digital marketing,30
+10020306,McGraw-Hill Publishing Company,31
+10020323,Mead Corporation,32
+10020332,Medics,33
+10020340,Melville Shoe Corporation,34
+10020364,Mersey Docks,35
+10020388,"Metro-Goldwyn-Mayer, Inc.",86
+10020390,"Miles Laboratories, Inc.",43
+10020393,Minneapolis Star and Tribune Company,98
+10020413,Molson Breweries,70
+10020445,N.Graphics,44
+10020446,NACSCORP,45
+10020448,Nanao,75
+10020449,Nancy Leffingwell Enterprises,36
+10020491,Nbase,37
+10020492,NBTel,38
+10020515,NBX,39
+10020639,NECX Direct,71
+10020647,Neeka,87
+10020662,Nematron,40
+10020663,Neostar,99
+10020672,Oki,41
+10020684,Oklahoma  Marketing,72
+10020715,Old Towne Creations,1
+10020849,OnDeck Systems,2
+10020864,One Planet Solutions,3
+10020868,One World,4
+10020907,Onebox,5
+10020909,Onestar,46
+10020914,Onetouch Interactive,73
+10020915,Ottercom,47
+10020927,Outbreak,48
+10020931,OutPost Network,100
+10020962,Output Enablers,88
+10020982,Outsource Documents,6
+10021006,Overdreams,7
+10021015,Owl's Eye Productions,8
+10021107,P.C.G. Associates,10
+10021111,P.C'S,9
+10021139,Pace,49
+10021145,Pacel,74
+10021158,Pacific Avionics,76
+10021160,Pacific Bell,11
+10021175,Pacific Handheld,62
+10021179,Pacific Matics,95
+10021184,Pacific Sierra Research,96
+10021185,Pacific Group,94
+10021203,Pacific Voice,97
+10021204,Pacific West Enterprises,77
+10021222,Pacifico,98
+10021223,PacificServ,50
+10021231,Packard Bell,51
+10021232,Packet Design,12
+10021239,PADL,13
+10021240,PAGE,14
+10021242,Page Marketing,15
+10021270,Page Research,16
+10021283,PageBoy,17
+10021286,PagePoint,18
+10021297,PageSites,19
+10021300,PageWave,20
+10021302,PageWeavers,21
+10021305,Pallister Management,22
+10021331,Palo Alto,23
+10021350,Panasonic,24
+10021380,Pangaea Systems,25
+10021411,Panix,26
+10021412,Panngea,99
+10021415,Pantech International,52
+10021418,Panzl,100
+10021422,PAP (Maintenance),94
+10021458,Paperless  Group,95
+10021459,Papyrus,63
+10021470,Papyrus Consultants,89
+10021472,Parabole,78
+10021485,Paracel,53
+10021494,Paraclipse,27
+10021575,Parian Development Group,28
+10021641,Password Busters,29
+10021668,Pathlight Data Systems,54
+10021673,Patient,55
+10021677,Patrick Townsend & Associates,30
+10021736,Patton Enterprises,31
+10021750,Paul Budde,32
+10021794,PayMaxx,33
+10021800,Payton Group International,34
+10021802,Pick Professionals,35
+10021804,Picka,36
+10021911,PING,64
+10021912,Ping,65
+10021936,Pink Elephant,66
+10021962,Pinnacle,90
+10021977,Pinnacle Management Systems,56
+10021986,Pinnacle Micro,57
+10021996,Pinnacle Trading,91
+10022166,QualityLogic,38
+10022167,Quallaby,39
+10022168,QualServe,58
+10022183,Quantex Microsystems,96
+10022201,Quantum,40
+10022240,Quantum 4Xyte  Architects,79
+10022249,Quantum Group,67
+10022252,Quantum Leap  Solutions,59
+10022423,Qwest,60
+10022431,R&J,92
+10022434,R&R Group,97
+10022444,R.J. Matter & Associates,42
+10022450,R2J2,43
+10022456,Ra Co Amo,98
+10022470,Racal Recorders,68
+10022490,Racal-Datacom,44
+10022678,Rave Association,93
+10022687,Ravenwerks,80
+10022725,Razorfish,70
+10022730,RC,45
+10022732,RC Micrographix,71
+10022746,Rdlabs,41
+10022750,Ready-to-Run,46
+10022755,Real World,1
+10022764,RealiDyne,72
+10022962,Reflex Presentations,2
+10022978,Relcom,3
+10023003,Remedy,47
+10023022,Renaissance Consulting,81
+10023023,Renegade info Crew,48
+10023212,Reuters Usability Group,99
+10023221,Reveal Products,49
+10023235,ReviewBooth,73
+10023241,Revnet Systems,74
+10023244,Revolutionary Systems,62
+10023275,RFI Corporation,100
+10023447,RKS,63
+10023471,Road Warrior International,64
+10023489,Robust Code,94
+10023495,Safe,4
+10023509,Safetynet,65
+10023510,Sage,50
+10023511,Sage  Group,5
+10023513,Sagent,95
+10023516,SAIC Wateridge,66
+10023524,Salamander,67
+10023538,Salamander Junction,68
+10023703,Sarcom,6
+10023715,SAS Distribution,51
+10023757,SAS Institute,7
+10023759,SASCO PC Products,69
+10023760,SataMine,84
+10023778,Satronix,96
+10023780,SAT-SAGEM (usa),8
+10023783,Saturnus Multi produkten,70
+10023785,Satyam,52
+10023793,Savetz Publishing,71
+10023964,Science Applications International (SAIC),9
+10024003,Scientific Atlanta,97
+10024006,ScotGold Products,53
+10024009,Scottish Highlands and Islands server,72
+10024010,Screaming Solutions Ventures,54
+10024016,Screen Digest,10
+10024022,Screen Saver.com,98
+10024034,Script Zone,82
+10024246,Siemens Nixdorf,85
+10024248,Sifton Properties Limited,99
+10024255,Sigma,55
+10024260,Sigma Duke,100
+10024262,Signature,94
+10024270,SignatureFactory,95
+10024477,Smith Manufacturing Company,11
+10024492,SNC Group,86
+10024499,Soloman Brothers,73
+10024524,Southam Inc.,56
+10024541,Southern Company,57
+10024550,Southwire Company,58
+10024704,Sterling Armament Company,12
+10024725,Stone Consolidated Corporation,74
+10024743,Stone Container Corporation,96
+10024880,Sun Microsystems,13
+10024915,Systems of Missouri,14
+10024916,T & S,15
+10024918,T.F.C.,16
+10024919,T.J.T. International,17
+10024924,T.M. Denton Consultants,18
+10024930,T3West,19
+10024940,Tadpole,20
+10024942,Tag Systems,21
+10024999,TAGnology,59
+10025021,Tailwind,60
+10025022,Take 3,22
+10025023,TAL (Tetherless Access Ltd.),83
+10025024,Talarian,23
+10025025,Taligent,97
+10025032,Talkland,75
+10025033,Tally Systems,98
+10025034,Talou,99
+10025036,Tampa Bay Interactive,42
+10025037,Tampere,100
+10025038,Tanager,87
+10025039,Tandy Corporation,43
+10025040,Tangent,62
+10025049,Tao Group,94
+10025051,Taos Mountain,95
+10025052,Target,24
+10025061,Target Marketing,44
+10025062,TargetedListings,88
+10025063,Taroch,25
+10025086,Tartanchase,26
+10025158,"Taskers of Andover, Ltd.",27
+10025213,Tatters,28
+10025237,Team ASA,76
+10025238,Team Financial Management Systems,96
+10025239,Teamaker,29
+10025241,Teammax,30
+10025242,Teamsolve,31
+10025243,Teca-Print,63
+10025246,TECC,77
+10025247,Telesat Canada,89
+10025248,Telus Corporation,97
+10025249,Texasgulf Inc.,64
+10025250,TICOR,65
+10025251,Time Warner,45
+10025252,Times Mirror Company,46
+10025264,Today,98
+10025267,Todd Shipyards Corporation,32
+10025269,Toledo Edison Company,47
+10025284,Towmotor Corporation,99
+10025285,Transalta Utilities Corporation,66
+10025287,TransCanada Pipelines Limited,48
+10025288,Transylvania Company,33
+10025289,Tredegar Company,100
+10025291,Trend Line Corporation,49
+10025296,Trust Company of Georgia,50
+10025298,Exchange,78
+10025299,Puff,79
+10025300,U.S. Robotics,90
+10025302,U.S. West,67
+10025304,UBF,34
+10025305,Ubicco,94
+10025353,UK Total.net,35
+10025359,UKnames.net,36
+10025392,Ultimate Group,37
+10025418,Ultra-Image,38
+10025467,Underwriters Laboratories,39
+10025495,UniForum,68
+10025508,Unimedya,80
+10025511,Uniplex,95
+10025515,UniPress,69
+10025549,UNIS LUMIN,91
+10025552,Unison Management Concepts,51
+10025558,Unisys,70
+10025560,Unisys STARS,71
+10025571,Unitec Systems,52
+10025575,Estates,81
+10025583,United Stationers,92
+10025587,United Switch,96
+10025608,Universal Access,40
+10025737,Userland,41
+10025758,UTStarGate,72
+10025769,UUmail,97
+10025771,VA Research,93
+10025778,ValiCert,98
+10025791,Valley  Solutions,99
+10025808,Valley Scribe,100
+10025814,Valpatken,73
+10025878,ValueClick,1
+10025919,Vanstar,94
+10026006,Vector ,83
+10026009,Vectrix,4
+10026023,VEI,5
+10026038,Velos Medical Informatics,6
+10026055,"Dellovade, A.C./Dick Corp/Kendall",57
+10026062,Venable,64
+10026078,Venred,54
+10026081,Ventana s Group,7
+10026268,WarRoom Research,82
+10026291,Warsun International,53
+10026294,Wasabi,2
+10026299,Watcom International,74
+10026334,Wayne's  World,3
+10026336,WBM Group,62
+10026348,WDND,63
+10026355,We Find It 4 U,95
+10026365,White Oak Interactive,8
+10026438,PLAINFIELD ROOFING AND SHEET METAL,37
+10026521,Xcert,9
+10026522,XCOM,55
+10026532,Xediom,56
+10026536,Xenet,65
+10026560,Xentec,57
+10026581,Xetron,66
+10026606,Xilinx,58
+10026839,Xtreme,67
+10026843,XVT,96
+10026861,Xyplex,97
+10026868,Xyratex,10
+10027050,Your Site,59
+10027053,YourFuture,60
+10027082,ySecret,75
+10027119,Yurie Systems,11
+10027340,Zentrum fur Interaktive Medien (ZIM),84
+10027348,Zephyr,68
+10027356,Zero Assumption Recovery,42
+10027370,Zero G,12
+10027381,Zero-Knowledge Systems,98
+10027560,Zilog,69
+10027572,ZipLip.Com,85
+10027575,Zitel,70
+10027583,zNET,43
+10027629,Zocalo,44
