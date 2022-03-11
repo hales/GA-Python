@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="/templates/styles.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <title>Artists</title>
+    </head>
+    <body>
+        <div class="container">
+            {% if index == "yes" %}
+                <h1 style="padding-top: 10px;">Click on an art work!</h1>
+            {% endif %}
+            {% if index == "no" %}
+                <a class="text-muted font-weight-light" href="/">Gallery</a>
+                <h1 style="padding-top: 10px;">{{artist["name"]}}</h1>
+                <div class="row">
+                    <div class="col-6">
+                        <img src="{{artist['url']}}" style="max-width:500px; max-height:600px;">
+                    </div>
+                    <div class="col-6">
+                        <div class="row">
+                            <div class="col-4" style="margin-top: 6px">
+                                <h4 class="text-muted font-weight-light">Work Title:</h4>
+                            </div>
+                            <div class="col-8">
+                                <h2>{{artist["auction_record_title"]}}</h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-4" style="margin-top: 2px">
+                                <h4 class="text-muted font-weight-light">Price Sold:</h4>
+                            </div>
+                            <div class="col-8">
+                                <h3 class="font-weight-normal">${{artist["auction_record_amount"]}}</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-4" style="margin-top: 2px">
+                                <h4 class="text-muted font-weight-light">Year Created:</h4>
+                            </div>
+                            <div class="col-8">
+                                <h3 class="font-weight-normal">{{artist["year_created"]}}</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-4" style="margin-top: 2px">
+                                <h4 class="text-muted font-weight-light">Art Type:</h4>
+                            </div>
+                            <div class="col-8">
+                                <h3 class="font-weight-normal">{{artist["art_type"]}}</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    
+            {% endif %}
+            <div class="row">
+                {% for artist in artists %}
+                    <div class="col-4">
+                        <a href="artist/{{artist['name']}}">
+                            <img src="{{artist['url']}}" height="300" max-width="300" style="padding-top:20px; display:block; margin-left:auto; margin-right:auto;"/>
+                        </a>
+                    </div>
+                {% endfor %}    
+            </div>
+        </div> 
+    </body>
+</html>
